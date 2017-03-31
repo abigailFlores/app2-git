@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>tv</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>87</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/epsilon/</ImageTemplate>
+            <ImageTemplateName>Epsilon</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/11_DAM/PARCIAL 2/APLICACIONES/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto</TemplateFont>
+            <TemplateName>epsilon</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/at t.jpg</url>
+                <title>at t</title>
+                <filesize>174438</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/g4.jpg</url>
+                <title>g4</title>
+                <filesize>270080</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/gama alta  1.jpg</url>
+                <title>gama alta  1</title>
+                <filesize>77927</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/gama media 1.jpg</url>
+                <title>gama media 1</title>
+                <filesize>41086</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/hist movil 2.jpg</url>
+                <title>hist movil 2</title>
+                <filesize>153450</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/iphone sust2.jpg</url>
+                <title>iphone sust2</title>
+                <filesize>61318</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/movistar.png</url>
+                <title>movistar</title>
+                <filesize>3758</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/z5 sony.png</url>
+                <title>z5 sony</title>
+                <filesize>286801</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/unefon.png</url>
+                <title>unefon</title>
+                <filesize>3285</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app2/imagenes/Telcel.png</url>
+                <title>Telcel</title>
+                <filesize>144135</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
